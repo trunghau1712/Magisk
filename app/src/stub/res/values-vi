@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="upgrade_msg">Nâng cấp lên Magisk Manager bản đầy đủ để hoàn tất thiết lập. Tảii xuống và cài đặt?</string>
+    <string name="no_internet_msg">Vui lòng kết nối internet! Nâng cấp lên Magisk Manager bản đầy đủ là bắt buộc.</string>
+</resources>
